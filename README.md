@@ -24,8 +24,8 @@ Use the tracklist tool when you have a CSV. Use the transition detector when you
 ## Installation
 
 ```bash
-git clone <repo-url>
-cd <repo-folder>
+git clone https://github.com/d-baez/dj-tools.git
+cd dj-tools
 python3 -m venv .venv
 source .venv/bin/activate
 pip install -r requirements.txt
